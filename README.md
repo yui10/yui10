@@ -1,5 +1,7 @@
-### Hi there 👋
-
+ここでは課題などで作成したものを公開しています。作品の作成と公開の順序は順不同です<br>
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yui10)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--
 **yui10/yui10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
