@@ -1,7 +1,11 @@
-ここでは課題などで作成したものを公開しています。作品の作成と公開の順序は順不同です<br>
+ここでは課題や暇つぶしなどで作成したものを公開しています。作品の作成と公開の順序は順不同です
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yui10&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yui10)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yui10)](https://github.com/ryo-ma/github-profile-trophy)
 -->
+
 <!--
 **yui10/yui10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
