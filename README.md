@@ -30,9 +30,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=yui10&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yui10/yui10/main/img/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yui10/yui10/main/img/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/yui10/yui10/main/img/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yui10/yui10/main/img/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yui10/yui10/main/img/snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/yui10/yui10/main/img/snake.svg" />
 </picture>
 
 <!--
