@@ -23,7 +23,7 @@
 ## Stats
 
 <p align="left">
-  <picture>    
+  <picture>
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yui10&show_icons=true&locale=en&layout=compact" />
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yui10&show_icons=true&locale=en&layout=compact&theme=onedark" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yui10&show_icons=true&locale=en&layout=compact" alt="Top Langs" height="200px" />
@@ -31,7 +31,12 @@
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=yui10&show_icons=true&locale=en&theme=onedark" alt="github stats" height="200px"/> -->
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yui10&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=yui10&theme=onedark&column=9)](https://github.com/ryo-ma/github-profile-trophy) -->
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=yui10&column=9" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=yui10&theme=onedark&column=9" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yui10&column=9" alt="Top Langs" height="200px" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yui10/yui10/main/img/snake-dark.svg" />
