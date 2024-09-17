@@ -23,7 +23,11 @@
 ## Stats
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yui10&show_icons=true&locale=en&layout=compact&theme=onedark" alt="Top Langs" height="200px" />
+  <picture>    
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yui10&show_icons=true&locale=en&layout=compact" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=yui10&show_icons=true&locale=en&layout=compact&theme=onedark" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yui10&show_icons=true&locale=en&layout=compact" alt="Top Langs" height="200px" />
+  </picture>
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=yui10&show_icons=true&locale=en&theme=onedark" alt="github stats" height="200px"/> -->
 </p>
 
