@@ -1,3 +1,7 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=yui10" />
+</div>
+
 # Hi 👋, Welcome to my GitHub!
 
 ここでは課題や暇つぶしなどで作成したものを公開しています。作品の作成と公開の順序は順不同です
